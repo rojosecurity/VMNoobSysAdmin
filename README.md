@@ -16,7 +16,9 @@
 <p>✅ Basada en : Debian </p>
 <p>✅ Pensada para : CTF</p>
 <p>🚩 Flags : 2 usuario | root</p>
+
 ---
+
 <h3>🔧 Instalación</h3>
 <h4>Descarga del siguiente enlace</h4>
 
