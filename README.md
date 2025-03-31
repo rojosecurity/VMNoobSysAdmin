@@ -1,4 +1,6 @@
 <h1> VMNoobSysAdmin </h1>
+<img src="NoobSysAdmin.jpeg" >
+
 <h2> Máquina diseñada para pruebas de seguridad y pentesting en un entorno controlado.</h2>
 
 
