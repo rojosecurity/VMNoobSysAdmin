@@ -37,3 +37,9 @@
 <h3>Información del Archivo</h3>
 <p> SHA256: 9C039F1A761D89495B310E7976AE47F612A04505268A993A1E9EFBADA18DDF73 </p>
 <p> NOmbre del archivo: NoobSysAdmin.ova</p>
+
+
+---
+
+<h3> Capturas </h3>
+<img src="img/NSA1.jpeg">
