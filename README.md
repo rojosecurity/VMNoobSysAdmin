@@ -42,4 +42,4 @@
 ---
 
 <h3> Capturas </h3>
-<img src="img/NSA1.jpeg">
+<img src="img/NSA1.png">
