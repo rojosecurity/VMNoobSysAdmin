@@ -11,7 +11,7 @@
 
 <h3>🚀 Caracteristicas </h3>
 
-<p>✅ Vulnerabilidades incluidas: webdav</p>
+<p>✅ Vulnerabilidades incluidas: Misconfiguration(credenciales por defecto, permisos excesivos, Errores de configiracde acceso)</p>
 <p>✅ Nivel de dificuldad : Facil</p>
 <p>✅ Basada en : Debian </p>
 <p>✅ Pensada para : CTF</p>
